@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/real-time-stock-market/static/css/main.4993e0e1.css",
+    "main.js": "/real-time-stock-market/static/js/main.a8c8d560.js",
+    "static/js/453.745a24c7.chunk.js": "/real-time-stock-market/static/js/453.745a24c7.chunk.js",
+    "index.html": "/real-time-stock-market/index.html",
+    "main.4993e0e1.css.map": "/real-time-stock-market/static/css/main.4993e0e1.css.map",
+    "main.a8c8d560.js.map": "/real-time-stock-market/static/js/main.a8c8d560.js.map",
+    "453.745a24c7.chunk.js.map": "/real-time-stock-market/static/js/453.745a24c7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4993e0e1.css",
+    "static/js/main.a8c8d560.js"
+  ]
+}
