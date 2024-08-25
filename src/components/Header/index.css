@@ -1,0 +1,25 @@
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 30px 20px 30px;
+    background-color: #e9e4e4;   
+    font-family: Roboto;
+}
+
+.header-name {
+    margin: 0;
+    font-size: 30px;
+    color: #504e4e;
+}
+
+.header-link {
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    color: #504e4e;
+}
+
+.header-icon {
+    margin-right: 5px;
+}

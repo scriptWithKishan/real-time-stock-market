@@ -1,0 +1,109 @@
+.company-element {
+    box-sizing: border-box;
+    width: 100%;
+    border: 0px solid #ccc;
+    border-radius: 10px;
+    background-color: #d8d5d5;
+    padding: 20px;
+    margin: 0px 0px 20px 0px;
+    display: flex;
+    align-items: flex-start;
+    font-family: sans-serif;
+}
+
+.company-img {
+    height: 250px;
+    border: 0px solid #ccc;
+    border-radius: 20px;
+    margin-right: 20px;
+}
+
+.company-details {
+    width: 100%;
+}
+
+.name-web {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+}
+
+.company-name {
+    font-size: 35px;
+}
+
+.company-web {
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+    font-size: 15px;
+}
+
+.visit-logo {
+    margin-right: 5px
+}
+
+.industry-exchange {
+    display: flex;
+    align-items: center;
+}
+
+.industry-exchange-text {
+    margin-right: 15px;
+    font-size: 15px;
+}
+
+.company-span {
+    font-weight: 900;
+}
+
+.shares {
+    display: flex;
+    flex-direction: column;
+    margin-top: 10px;
+}
+
+.current-price {
+    font-size: 30px;
+    margin: 0;
+}
+
+.currency {
+    font-weight: 300;
+    font-size: 15px;   
+}
+
+.loss {
+    font-size: 12px;
+    color: red;
+    margin: 0;
+    display: flex;
+    align-items: center;
+}
+
+.profit {
+    font-size: 12px;
+    color: green;
+    margin: 0;
+    display: flex;
+    align-items: center;
+}
+
+.share-logo {
+    margin-left: 5px;
+    font-size: 10px;
+}
+
+.buy-button {
+    padding: 8px 16px;
+    margin-top: 10px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+.buy-button:hover {
+    background-color: #45a049;
+}
