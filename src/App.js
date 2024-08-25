@@ -12,7 +12,7 @@ function App() {
     <StockProvider>
       <BrowserRouter>
         <Switch>
-          <Route exact path="/" component={Home} />
+          <Route exact path="/home" component={Home} />
           <Route exact path="/dashboard" component={Dashboard} />
           <Route path="/not-found" component={NotFound} />
           <Redirect to="/not-found" />
